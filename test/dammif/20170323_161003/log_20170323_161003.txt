@@ -1,0 +1,15 @@
+Make SAXS Model
+version 1.02
+2017-2-24 16:10:3
+
+Run settings:
+Name of input file: Dmax217_Gasbor.out
+Units in Angstrom
+Models to make: Dammif
+Forced symmetry: P1
+Simulation speed: Fast
+Number of models to generate: 3
+
+Procedure stated at 16:10:03
+
+Generating models...

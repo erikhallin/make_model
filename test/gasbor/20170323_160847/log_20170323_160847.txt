@@ -1,0 +1,15 @@
+Make SAXS Model
+version 1.02
+2017-2-24 16:8:47
+
+Run settings:
+Name of input file: Dmax217_Gasbor.out
+Number of dummy residues: 573
+Units in Angstrom
+Models to make: Gasbor
+Forced symmetry: P1
+Number of models to generate: 3
+
+Procedure stated at 16:08:47
+
+Generating models...

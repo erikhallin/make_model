@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1489150087 source:e:\cpp\saxs\make_model\main.cpp
+	<windows.h>
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<fstream>
+	<time.h>
+	<unistd.h>
+
